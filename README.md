@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! I'm Ozan 👋
 
-<!--
-**Ozansglm/Ozansglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Computer Programmer
 
-Here are some ideas to get you started:
+I am a Computer Programming graduate from Uşak University. I am a developer focused on building functional and efficient web and desktop applications. I have experience in both backend logic and frontend presentation, and I am currently looking for new opportunities to grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills
+
+- ☕ **Backend:** Developing robust applications with **Java** and **PHP**.
+- 🌐 **Web Frontend:** Creating responsive interfaces using **HTML5, CSS3, and JavaScript**.
+- 🗄️ **Database:** Managing data with **SQL**.
+- 📚 **Current Focus:** Improving my English skills and working on a **Java-based Budget Tracking App**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Web Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database & Dev** | ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
+
+![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn Profile]((https://www.linkedin.com/in/ozan-sa%C4%9Flam-354a18338/))
+- 📧 [Email Me](ozansaglam1234@gmail.com)
+
+*"Coding is the bridge between imagination and reality."*
