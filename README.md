@@ -1,4 +1,4 @@
-# Hi there! I'm Ozan 👋
+# Hi there! I'm Ozansglm 👋
 
 ### Full-Stack Developer | Computer Programmer
 
