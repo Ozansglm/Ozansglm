@@ -34,6 +34,6 @@ I am a Computer Programming graduate from Uşak University. I am a developer foc
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn Profile]((https://www.linkedin.com/in/ozan-sa%C4%9Flam-354a18338/))
-- 📧 [Email Me](ozansaglam1234@gmail.com)
+- 📧 [Email Me](mailto:ozansaglam1234@gmail.com)
 
 *"Coding is the bridge between imagination and reality."*
